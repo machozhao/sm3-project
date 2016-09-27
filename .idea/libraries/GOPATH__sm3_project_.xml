@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;sm3-project&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../fabric-crypto-ext-project" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../fabric-crypto-ext-project" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
